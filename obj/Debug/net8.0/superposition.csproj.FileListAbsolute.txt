@@ -1,0 +1,14 @@
+C:\Users\leeky\source\repos\superposition\bin\Debug\net8.0\superposition.exe
+C:\Users\leeky\source\repos\superposition\bin\Debug\net8.0\superposition.deps.json
+C:\Users\leeky\source\repos\superposition\bin\Debug\net8.0\superposition.runtimeconfig.json
+C:\Users\leeky\source\repos\superposition\bin\Debug\net8.0\superposition.dll
+C:\Users\leeky\source\repos\superposition\bin\Debug\net8.0\superposition.pdb
+C:\Users\leeky\source\repos\superposition\obj\Debug\net8.0\superposition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leeky\source\repos\superposition\obj\Debug\net8.0\superposition.AssemblyInfoInputs.cache
+C:\Users\leeky\source\repos\superposition\obj\Debug\net8.0\superposition.AssemblyInfo.cs
+C:\Users\leeky\source\repos\superposition\obj\Debug\net8.0\superposition.csproj.CoreCompileInputs.cache
+C:\Users\leeky\source\repos\superposition\obj\Debug\net8.0\superposition.dll
+C:\Users\leeky\source\repos\superposition\obj\Debug\net8.0\refint\superposition.dll
+C:\Users\leeky\source\repos\superposition\obj\Debug\net8.0\superposition.pdb
+C:\Users\leeky\source\repos\superposition\obj\Debug\net8.0\superposition.genruntimeconfig.cache
+C:\Users\leeky\source\repos\superposition\obj\Debug\net8.0\ref\superposition.dll
